@@ -17,6 +17,7 @@ local.properties
 .loadpath
 .idea
 *.sqlite
+settings_local.rename.py
 
 # External tool builders
 .externalToolBuilders/
